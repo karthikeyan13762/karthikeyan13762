@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *React Js*
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio88.netlify.app/](https://my-portfolio88.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://karthikeyan-portfolio-7.netlify.app/](https://karthikeyan-portfolio-7.netlify.app/)
 
 - 💬 Ask me about *HTML5,CSS3,BOOTSTRAP5,JAVASCRIPT*
 
